@@ -1,5 +1,6 @@
-### Hi there 👋, I'm a climate modeller working on adapting the Met Office Unified Model to Mars. Feel free to get in contact if you have any questions or are just interested about the work!
+### Hi there 👋, 
 
+I'm a climate modeller working on adapting the Met Office Unified Model to Mars. Feel free to get in contact if you have any questions or are just interested about the work!
 Below is an idealised visualisation of the work so far:
 
 ![Alt Text](https://github.com/dannymcculloch/3d_Mars_gif/blob/main/Mars_LLD_dust_test.gif)
