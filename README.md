@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm a climate modeller working on adapting the Met Office Unified Model to Mars. Feel free to get in contact if you have any questions or are just interested about the work!
+I'm a climate modeller using the Met Office Unified Model (UM) at the University of Exeter. I'm currently working on improving our understanding of low cloud feedback in the tropics and their effects on deep convection. I previously worked on adapting the UM to Mars. Feel free to get in contact if you have any questions or are just interested about the work!
 Below is an idealised visualisation of the work so far:
 
 ![Alt Text](https://github.com/dannymcculloch/3d_Mars_gif/blob/main/Mars_LLD_dust_test.gif)
